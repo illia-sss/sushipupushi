@@ -1,1 +1,169 @@
+body {
+    font-family: Lucida Sans;
+}
 
+.header {
+    display: inline-block;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+body {
+    background-color: crimson;
+}
+
+div {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 15px 30px 0px black;
+}
+
+nav a {
+    background-color: crimson;
+    box-shadow: 10px 10px 15px 0px black;
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav {
+    text-align: right;
+    float: right;
+    margin-top: 25px;
+}
+
+nav a:focus {
+    background-color: crimson;
+    box-shadow: inset 5px 5px 15px 0px black;
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: black;
+    box-shadow: 10px 10px 15px 0px crimson;
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 1s ease;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 15px 30px 0px black;
+}
+
+.phila {
+  border-radius: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 40px;
+    margin: 0px;
+}
+
+.philaart {
+  border-radius: 20px;
+  background-color: crimson;
+  margin: 20px;
+  display: inline-block;
+  padding: 25px;
+}
+
+article a {
+  background-color: white;
+    box-shadow: 10px 10px 15px 0px black;
+    padding: 15px;
+    font-size: 20px;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+
+}
+
+.jockeyart {
+  border-radius: 20px;
+  background-color: crimson;
+  margin: 20px;
+  display: inline-block;
+  padding: 25px;
+}
+
+.jockey {
+  border-radius: 20px;
+}
+
+.salmonart {
+  border-radius: 20px;
+  background-color: crimson;
+  margin: 20px;
+  display: inline-block;
+  padding: 25px;
+}
+
+.salmon {
+  border-radius: 20px;
+  }
+  
+footer {
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 15px 30px 0px black;
+}
+
+footer p{
+  margin: 10px;
+  font-size: 30px;
+}
+
+article {
+  height: 350px;
+  vertical-align: middle;
+}
+
+.mangoart {
+  border-radius: 20px;
+  background-color: crimson;
+  margin: 20px;
+  display: inline-block;
+  padding: 25px;
+}
+
+.mango {
+  border-radius: 20px;
+  }
+  
+  .tunecart {
+  border-radius: 20px;
+  background-color: crimson;
+  margin: 20px;
+  display: inline-block;
+  padding: 25px;
+}
+
+.tunec {
+  border-radius: 20px;
+  }
